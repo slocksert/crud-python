@@ -1,2 +1,2 @@
-# RDICT
+# CRUD
 - https://basics-crud.herokuapp.com/
