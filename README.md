@@ -1,2 +1,2 @@
 # RDICT
-- https://random-dictionary.herokuapp.com/
+- https://basics-crud.herokuapp.com/
