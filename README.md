@@ -1,2 +1,2 @@
 # CRUD
-- https://basics-crud.herokuapp.com/
+- https://basiccrud.up.railway.app/
